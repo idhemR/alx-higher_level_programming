@@ -1,0 +1,1 @@
+javascript obj scp closures
