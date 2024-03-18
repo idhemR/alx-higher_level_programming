@@ -1,1 +1,1 @@
-relational mapping
+python orm
